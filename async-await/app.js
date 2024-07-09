@@ -1,4 +1,4 @@
-let url = "http://numbersapi.com";
+git pull origin maingit commit -am "Resolved merge conflicts"let url = "http://numbersapi.com";
 let favNum = 11;
 
 //1
